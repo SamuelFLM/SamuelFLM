@@ -12,7 +12,7 @@
   <img align="center" alt="Samu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Samu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Samu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Samu-gif" src="https://media.giphy.com/media/amrNGnZUeWhZC/giphy.gif">
+  <img align="right" alt="Samu-gif" src="https://media.giphy.com/media/naiatn5LxTOsU/giphy.gif">
 </div>
   
   ##
