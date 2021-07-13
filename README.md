@@ -12,7 +12,7 @@
   <img align="center" alt="Samu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Samu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Samu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Samu-gif" src="http://gph.is/24Ivj2G">
+  <img align="right" alt="Samu-gif" src="<iframe src="https://giphy.com/embed/naiatn5LxTOsU" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/head-hero-boku-naiatn5LxTOsU">via GIPHY</a></p>">
 </div>
   
   ##
