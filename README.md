@@ -1,7 +1,15 @@
 <img min-width="450px" max-width="250" width="250" align="right" alt="Computador" style="border-radius:100px;" src="https://anyforsoft.com/static/a2da834e20a93f2114281a1174296b58/17.gif">
 
-<h1 align="center">Uai zé de rocha🖖🏽</h1>
-<p> Olá, me chamo samuel e tenho 20 anos. Sou de minas e gosto de pão de queijo.
+<h1 align="center">Uai e ai beleza🖖🏽</h1>
+<p>Sou estudante de Análise e desenvolvimento de sistemas EAD pela Universidade Católica de Brasília, estou no meu último ano de faculdade Previsão de Formatura em Jul/2023.
+
+Tenho mais de 2 anos de experiencia na área de TI e 1 ano na área de desenvolvimento de software em empresas multinacional com foco em tecnologia e mercado financeiro:  TOTVS e Itaú Unibanco.
+    
+Já fiz um site para uma empresa americana e trabalhei na infra e na implantação de sistemas em empresas brasileiras.
+
+Já fiz projeto e extensão na USP com foco em python para processamento de linguagem natural e recentemente
+fiz Extensão na UFMG com foco em Teste de software.
+
 </p>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamuelFLM&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamuelFLM&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamuelFLM&theme=nord_dark) |
