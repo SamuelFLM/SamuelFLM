@@ -1,7 +1,7 @@
 <img min-width="450px" max-width="250" width="250" align="right" alt="Computador" style="border-radius:100px;" src="https://anyforsoft.com/static/a2da834e20a93f2114281a1174296b58/17.gif">
 
 <h1 align="center">Uai e ai beleza🖖🏽</h1>
-<p>Sou estudante de Análise e desenvolvimento de sistemas EAD pela Universidade Católica de Brasília, estou no meu último ano de faculdade Previsão de Formatura em Jul/2023.
+<p>Sou estudante de Análise e desenvolvimento de sistemas EAD pela Universidade Católica de Brasília, estou no meu último ano de faculdade Previsão de Formatura em Dez/2023.
 
 Tenho mais de 2 anos de experiencia na área de TI e 1 ano na área de desenvolvimento de software em empresas multinacional com foco em tecnologia e mercado financeiro:  TOTVS e Itaú Unibanco.
     
@@ -53,18 +53,24 @@ fiz Extensão na UFMG com foco em Teste de software.
 <img height="100px" src="http://ongrenovar.com.br/images/itau-logo.jpg"/>
 <img height="100px" src="https://th.bing.com/th/id/OIP.Y4gE7RAfvIiJ_1AaecJYZgAAAA?w=180&h=180&c=7&r=0&o=5&pid=1.7"/>
 <img height="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwMmiiWcvbulGPHqRMo2tMSTdMQxUIMeiiWLMJWQ73KRN-Zrh3s4Y76pTbW6LwxHSojzI&usqp=CAU"/>
-<img height="100px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEfldMfVGg23g/company-logo_200_200/0/1641238767349?e=1674086400&v=beta&t=FAyag95-h9R3SRZtvfAB6yUe2Xdf3VxocRjCNviXpw8"/>
+<img height="100px" src="https://th.bing.com/th/id/R.53e6a2bd503eb9aa39b5d17874d9eaa7?rik=bwJfcbrqT6WO1A&pid=ImgRaw&r=0"/>
 </div>
 
 ## Universidades
 <p>Estudei e fiz projetos</p>
 <div>
 <img height="100px" src="https://www.sinpoldf.com.br/wp-content/uploads/2019/09/41517287_1949405008462069_1302937135933816832_n.png"/>
-<img height="100px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHHXnr1_zj8JA/company-logo_200_200/0/1660072406824?e=1674086400&v=beta&t=Q0xgPFYNzFHS47wLxdQFF7pAyi4vjNYVnpHjoUvIsfM"/>
-<img height="100px" src="https://media-exp1.licdn.com/dms/image/C560BAQEe-XddVYMIUg/company-logo_200_200/0/1519898468991?e=1674086400&v=beta&t=wWOcpnXrIld5Rew16vRX-sFBcwrMH4xwIG2OXSBY1HE"/>
-<img height="100px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQF8OT9RjVFVBw/company-logo_200_200/0/1656305893613?e=1674086400&v=beta&t=MzPBiPTAGHYkIRbD6cMzU8DaZdu9KJU9M0HdCfBVSws"/>
+
+<img height="100px" src="https://logodownload.org/wp-content/uploads/2014/12/usp-logo-azul.jpg"/>
+
+<img height="100px" src="https://afubesp.org.br/wp-content/uploads/2022/07/logo_ebac-960x640.png"/>
+
+<img height="100px" src="https://logodownload.org/wp-content/uploads/2019/07/xp-investimentos-logo-8.png"/>
+
 <img height="100px" src="https://lacsed.eng.ufmg.br/wp-content/uploads/2020/05/logo-ufmg.jpg"/>
-<img height="100px" src="https://media-exp1.licdn.com/dms/image/D4D0BAQEcOOh1RPQPSg/company-logo_200_200/0/1664904835400?e=1674086400&v=beta&t=BbKTEjqzLiD6TOohJTp0i4b_vDHmvLGF5O0KrkJdR_Q"/>
+
+<img height="100px" src="https://th.bing.com/th/id/OIP.UlD4mfAM8PW9C4KsFaFOSAHaEM?pid=ImgDet&rs=1"/>
+
 </div>
 
 
