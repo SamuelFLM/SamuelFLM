@@ -39,13 +39,8 @@ fiz Extensão na UFMG com foco em Teste de software.
 
 <img height="100px" src="https://logodownload.org/wp-content/uploads/2014/12/usp-logo-azul.jpg"/>
 
-<img height="100px" src="https://afubesp.org.br/wp-content/uploads/2022/07/logo_ebac-960x640.png"/>
-
-<img height="100px" src="https://logodownload.org/wp-content/uploads/2019/07/xp-investimentos-logo-8.png"/>
-
 <img height="100px" src="https://lacsed.eng.ufmg.br/wp-content/uploads/2020/05/logo-ufmg.jpg"/>
 
-<img height="100px" src="https://th.bing.com/th/id/OIP.UlD4mfAM8PW9C4KsFaFOSAHaEM?pid=ImgDet&rs=1"/>
 
 </div>
 
