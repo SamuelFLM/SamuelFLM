@@ -29,7 +29,6 @@ fiz Extensão na UFMG com foco em Teste de software.
 <img height="100px" src="http://ongrenovar.com.br/images/itau-logo.jpg"/>
 <img height="100px" src="https://th.bing.com/th/id/OIP.Y4gE7RAfvIiJ_1AaecJYZgAAAA?w=180&h=180&c=7&r=0&o=5&pid=1.7"/>
 <img height="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwMmiiWcvbulGPHqRMo2tMSTdMQxUIMeiiWLMJWQ73KRN-Zrh3s4Y76pTbW6LwxHSojzI&usqp=CAU"/>
-<img height="100px" src="https://th.bing.com/th/id/R.53e6a2bd503eb9aa39b5d17874d9eaa7?rik=bwJfcbrqT6WO1A&pid=ImgRaw&r=0"/>
 </div>
 
 ## Universidades
