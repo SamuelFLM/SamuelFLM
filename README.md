@@ -54,3 +54,4 @@ Além disso, participei de um projeto e de uma extensão na USP, nos quais foque
     <img alingn="center" src="https://profile-counter.glitch.me/SamuelFLM/count.svg"/>
 </p>
       
+<img src="https://capsule-render.vercel.app/api?type=wave&height=120&section=footer&fontSize=90&color=gradient&customColorList=2,6,12,14,19,20,24,30" width="100%"/>
