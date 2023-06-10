@@ -1,56 +1,53 @@
-<img min-width="450px" max-width="250" width="250" align="right" alt="Computador" style="border-radius:100px;" src="https://anyforsoft.com/static/a2da834e20a93f2114281a1174296b58/17.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,14,19,20,24,30&height=200&animation=fadeIn&section=header&text=Ol%C3%A1%20Mundo!&fontSize=50&fontAlignY=40" width="100%">
 
-<h1 align="center">E ai beleza🖖🏽</h1>
-<p>Sou estudante de Análise e desenvolvimento de sistemas EAD pela Universidade Católica de Brasília, estou no meu último ano de faculdade Previsão de Formatura em Dez/2023.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Back+end;Front+end;Mobile;Responsividade;Acessibilidade&size=30&center=true&width=1000)](https://git.io/typing-svg)
 
-Tenho mais de 2 anos de experiencia na área de TI e 1 ano na área de desenvolvimento de software em empresas multinacional com foco em tecnologia e mercado financeiro:  TOTVS e Itaú Unibanco.
-    
-Já fiz um site para uma empresa americana e trabalhei na infra e na implantação de sistemas em empresas brasileiras.
+Sou estudante de Análise e Desenvolvimento de Sistemas EAD pela Universidade Católica de Brasília, atualmente no último ano de faculdade com previsão de formatura em dezembro de 2023.
 
-Já fiz projeto e extensão na USP com foco em python para processamento de linguagem natural e recentemente
-fiz Extensão na UFMG com foco em Teste de software.
+Tenho mais de dois anos de experiência na área de TI, com um ano dedicado especificamente ao desenvolvimento de software em empresas multinacionais voltadas para tecnologia e mercado financeiro, como TOTVS e Itaú Unibanco.
 
-</p>
+Durante minha trajetória profissional, destaco a criação de um site para uma empresa americana, bem como meu envolvimento em projetos de infraestrutura e implantação de sistemas em empresas brasileiras.
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamuelFLM&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamuelFLM&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamuelFLM&theme=nord_dark) |
-| :-: | :-: | :-: |
+Além disso, participei de um projeto e de uma extensão na USP, nos quais foquei em Python para processamento de linguagem natural. Recentemente, também realizei uma extensão na UFMG com ênfase em Teste de Software.
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamuelFLM&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=SamuelFLM&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelflima/)
 
+### 💻 Tech Stack
 
-##
+---
+
+**Estas são as tecnologias que já utilizei ou estou utilizando atualmente:**
+
+<br/>
+
+<div width="100%" align="center" style="display:flex;flex-direction:column">
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+### 📊 GitHub Stats
+
+---
+<div width="100%" align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelFLM&theme=transparent&hide_border=true&include_all_commits=false&count_private=true" height="195">
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFLM&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" height="195">
+</a>
+
+</div>
+
 
 <div style="display: inline_block;" align="center">
-
-
-## Empresas com quem trabalhei
-<div>
-<img height="100px" src="http://ongrenovar.com.br/images/itau-logo.jpg"/>
-<img height="100px" src="https://th.bing.com/th/id/OIP.Y4gE7RAfvIiJ_1AaecJYZgAAAA?w=180&h=180&c=7&r=0&o=5&pid=1.7"/>
-<img height="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwMmiiWcvbulGPHqRMo2tMSTdMQxUIMeiiWLMJWQ73KRN-Zrh3s4Y76pTbW6LwxHSojzI&usqp=CAU"/>
-</div>
-
-## Universidades
-<p>Estudei e fiz projetos</p>
-<div>
-<img height="100px" src="https://www.sinpoldf.com.br/wp-content/uploads/2019/09/41517287_1949405008462069_1302937135933816832_n.png"/>
-
-<img height="100px" src="https://logodownload.org/wp-content/uploads/2014/12/usp-logo-azul.jpg"/>
-
-<img height="100px" src="https://lacsed.eng.ufmg.br/wp-content/uploads/2020/05/logo-ufmg.jpg"/>
-
-
-</div>
-
-
-#
-
- <div align="center">
-    
-   ![Snake animation](https://github.com/SamuelFLM/SamuelFLM/blob/output/github-contribution-grid-snake.svg)
-
-  </div>
 
   <h3><p align="center">Total de visitas no perfil:</p>
 <p align="center">
