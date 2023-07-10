@@ -32,20 +32,6 @@ Além disso, participei de um projeto e de uma extensão na USP, nos quais foque
 
 </div>
 
-### 📊 GitHub Stats
-
----
-<div width="100%" align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelFLM&theme=transparent&hide_border=true&include_all_commits=false&count_private=true" height="195">
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFLM&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" height="195">
-</a>
-
-</div>
-
 
 <div style="display: inline_block;" align="center">
 
@@ -53,5 +39,4 @@ Além disso, participei de um projeto e de uma extensão na USP, nos quais foque
 <p align="center">
     <img alingn="center" src="https://profile-counter.glitch.me/SamuelFLM/count.svg"/>
 </p>
-      
-<img src="https://capsule-render.vercel.app/api?type=wave&height=120&section=footer&fontSize=90&color=gradient&customColorList=2,6,12,14,19,20,24,30" width="100%"/>
+
