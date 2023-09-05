@@ -1,14 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,14,19,20,24,30&height=200&animation=fadeIn&section=header&text=Ol%C3%A1%20Mundo!&fontSize=50&fontAlignY=40" width="100%">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Back+end;Front+end;Mobile;Responsividade;Acessibilidade&size=30&center=true&width=1000)](https://git.io/typing-svg)
+<p>
+  Sou um desenvolvedor BackEnd com experiência em tecnologias como C#, Python e JavaScript. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília (UCB) e tenho trabalhado como freelancer desenvolvendo sistemas desktop, chatbots e automações usando a tecnologia Python.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas EAD pela Universidade Católica de Brasília, atualmente no último ano de faculdade com previsão de formatura em dezembro de 2023.
+Tenho afinidade com bancos de dados como SQL Server, PostgreSQL e MySQL, bem como com o desenvolvimento em nuvem. Além disso, tenho experiência com o framework Scrum para o desenvolvimento de software e com o desenvolvimento de testes unitários e integrados para garantir a qualidade do software.
 
-Tenho mais de dois anos de experiência na área de TI, com um ano dedicado especificamente ao desenvolvimento de software em empresas multinacionais voltadas para tecnologia e mercado financeiro, como TOTVS e Itaú Unibanco.
-
-Durante minha trajetória profissional, destaco a criação de um site para uma empresa americana, bem como meu envolvimento em projetos de infraestrutura e implantação de sistemas em empresas brasileiras.
-
-Além disso, participei de um projeto e de uma extensão na USP, nos quais foquei em Python para processamento de linguagem natural. Recentemente, também realizei uma extensão na UFMG com ênfase em Teste de Software.
+Estou sempre buscando novos desafios e oportunidades para continuar crescendo profissionalmente e aprimorando minhas habilidades. Se você estiver interessado em trabalhar comigo ou quiser saber mais sobre minhas experiências, não hesite em entrar em contato! 😊
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelflima/)
 
@@ -22,13 +21,13 @@ Além disso, participei de um projeto e de uma extensão na USP, nos quais foque
 
 <div width="100%" align="center" style="display:flex;flex-direction:column">
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
