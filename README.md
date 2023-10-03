@@ -15,26 +15,30 @@ Estou sempre buscando oportunidades para aplicar e expandir minhas habilidades e
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelflima/)
 
+
+
 ### 💻 Tech Stack
+  
+  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamuelFLM&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamuelFLM&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
 
----
 
-**Estas são as tecnologias que já utilizei ou estou utilizando atualmente:**
+ 
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,cs,dotnet,azure,python,vscode,javascript,typescript,css,html,angular,tailwind,sass,nodejs,docker,figma,github,linux,postman,bootstrap,mongodb,postgres,visualstudio,selenium," />
+</a>
+  <br />
 
-<br/>
+  </div>
 
-<div width="100%" align="center" style="display:flex;flex-direction:column">
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-![SQLite](https://img.shields.io/badge/sqlserver-%2307405e.svg?style=for-the-badge&logo=sqlserver&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
+ 
+##
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=SamuelFLM&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
+  
 
 <div style="display: inline_block;" align="center">
 
