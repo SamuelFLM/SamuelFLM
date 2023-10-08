@@ -10,7 +10,7 @@ Um dos meus pontos fortes é o desenvolvimento de APIs REST, que considero uma h
 
 Além disso, tenho experiência com o framework Scrum para o desenvolvimento de software ágil e com o desenvolvimento de testes unitários e integrados em .NET para garantir a qualidade do software.
 
-Estou sempre buscando oportunidades para aplicar e expandir minhas habilidades em .NET, seja em projetos de sistemas desktop, desenvolvimento de chatbots ou automações..
+Estou sempre buscando oportunidades para aplicar e expandir minhas habilidades em .NET, seja em projetos de sistemas desktop, desenvolvimento de chatbots ou automações.
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelflima/)
