@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Back+end;Front+end;Mobile;Responsividade;Acessibilidade&size=30&center=true&width=1000)](https://git.io/typing-svg)
 <p>
-  Sou um desenvolvedor BackEnd especializado em .NET, com experiência significativa em tecnologias como C#, Python e JavaScript. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília (UCB).
+  Sou um desenvolvedor BackEnd especializado em .NET, com experiência significativa em tecnologias como C#, Python e JavaScript. Atualmente, estou formado em Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília (UCB).
 
 Minha carreira profissional inclui posições na Totvs e Itaú Unibanco, onde adquiri uma valiosa experiência prática no desenvolvimento de soluções eficientes e escaláveis. Tenho uma forte afinidade com bancos de dados como SQL Server, PostgreSQL e MySQL, e tenho experiência com o desenvolvimento em nuvem usando .NET.
 
@@ -20,9 +20,7 @@ Estou sempre buscando oportunidades para aplicar e expandir minhas habilidades e
 ### 💻 Tech Stack
   
   
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamuelFLM&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamuelFLM&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
-
+[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamuelFLM&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
  
   <div align="center" >
@@ -34,10 +32,7 @@ Estou sempre buscando oportunidades para aplicar e expandir minhas habilidades e
   </div>
 
  
-##
-   <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=SamuelFLM&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
+
   
 
 <div style="display: inline_block;" align="center">
